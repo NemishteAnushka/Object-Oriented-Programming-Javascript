@@ -3,7 +3,7 @@
 function myFunc() {
   console.log("hello");
 }
-// console.log(myFunc.name); //this name property returns name of the function
+console.log(myFunc.name); //this name property returns name of the function
 //also you can add your own properties
 //for eg
 // myFunc.myName = "Anushka";

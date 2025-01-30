@@ -9,3 +9,4 @@ const object1 = {
 const object2 = Object.create(object1);
 object2.key3 = "value3"
 console.log(object2);
+console.log(object2.key1)
